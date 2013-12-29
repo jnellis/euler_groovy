@@ -1,86 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/src/net/jnellis/util/Factorial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/src/net/jnellis/util/Fib.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/test/net/jnellis/util/FibTest.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Joe.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/src/net/jnellis/util/Math.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/test/net/jnellis/util/MathTest.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/names.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe10.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe11.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe12.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe13.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe14.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe15.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe16.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe17.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe18.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe180.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe19.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe2.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe20.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe205.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe21.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe22.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe23.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe24.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe25.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe26.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe27.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe28.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe29.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe30.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe31.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe32.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe33.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe34.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe35.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe36.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe37.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe38.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe39.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe40.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe41.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe42.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe43.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe44.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe45.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe46.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe47.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe48.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe49.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe50.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe51.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/problems.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project euler.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/triangle.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/utilities.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/words.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" name="Default" comment="project euler 50 drop">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/test/net/jnellis/util/Benchmark.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/test/net/jnellis/util/FactorialTest.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/src/net/jnellis/util/Qsort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest2.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/src/net/jnellis/util/Quicksort.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utilities/test/net/jnellis/util/QuicksortTest.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe52.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe53.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/src/pe54.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utilities/src/net/jnellis/util/Factorial.java" afterPath="$PROJECT_DIR$/utilities/src/net/jnellis/util/Factorial.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problems/src/pe51.groovy" afterPath="$PROJECT_DIR$/problems/src/pe51.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project euler.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1374785377231" ignored="false" />
+    <file path="/fragment.java" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1388289743438" ignored="false" />
     <file path="/a.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1366672126376" ignored="false" />
     <file path="/a.feature" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1366672119494" ignored="false" />
     <file path="/a.java" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1374175371306" ignored="false" />
     <file path="/Fib.java" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1374777427349" ignored="false" />
-    <file path="/Factorial.java" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1374175114563" ignored="false" />
-    <file path="/Dummy.txt" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1375313829970" ignored="false" />
-    <file path="/FactorialTest.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1374177689862" ignored="false" />
+    <file path="/Factorial.java" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1382402882770" ignored="false" />
+    <file path="/Dummy.txt" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1388347992754" ignored="false" />
+    <file path="/FactorialTest.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1382402950580" ignored="false" />
     <file path="/pe2.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1374266078686" ignored="false" />
     <file path="/pe13.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1374278402072" ignored="false" />
     <file path="/pe16.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1374278560911" ignored="false" />
@@ -111,6 +56,18 @@
     <file path="/pe48.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1375212965074" ignored="false" />
     <file path="/pe49.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1375216275681" ignored="false" />
     <file path="/pe50.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1375229017664" ignored="false" />
+    <file path="/pe51.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1382398060572" ignored="false" />
+    <file path="/pe52.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1382400446159" ignored="false" />
+    <file path="/pe53.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1382403267000" ignored="false" />
+    <file path="/pe54.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1386864329094" ignored="false" />
+    <file path="/DummyFile.xpath" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1382547269244" ignored="false" />
+    <file path="/Quicksort.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1387652540418" ignored="false" />
+    <file path="/QuicksortTest.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1387917915877" ignored="false" />
+    <file path="/Benchmark.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1387381154976" ignored="false" />
+    <file path="/Qsort.java" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1388289602363" ignored="false" />
+    <file path="/QsortTest.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1387998757129" ignored="false" />
+    <file path="/Qsort.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1387660870583" ignored="false" />
+    <file path="/QsortTest2.groovy" changelist="55ed0ffc-854f-4ef2-b5e0-e64bfe0bebd7" time="1388289017595" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +82,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -177,7 +135,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe2.groovy" line="12" class="pe2.groovy" package="">
+      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe2.groovy" line="11" class="pe2.groovy" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -207,7 +165,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe37.groovy" line="28" class="pe37.groovy" package="">
+      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe37.groovy" line="26" class="pe37.groovy" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -222,7 +180,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe46.groovy" line="23" class="pe46.groovy" package="">
+      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe46.groovy" line="22" class="pe46.groovy" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -297,8 +255,172 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe54.groovy" line="140" class="Hands" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe54.groovy" line="133" class="Hands" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe54.groovy" line="134" class="Hands" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/problems/src/pe54.groovy" line="157" class="pe54.groovy" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Quicksort.groovy" line="12" class="net.jnellis.util.Quicksort" package="net.jnellis.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Quicksort.groovy" line="23" class="net.jnellis.util.Quicksort" package="net.jnellis.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Quicksort.groovy" line="35" class="net.jnellis.util.Quicksort" package="net.jnellis.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest.groovy" line="21" class="net.jnellis.util.QsortTest" package="net.jnellis.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Qsort.java" line="47" class="net.jnellis.util.Qsort" package="net.jnellis.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Qsort.java" line="24" class="net.jnellis.util.Qsort" package="net.jnellis.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Qsort.java" line="28" class="net.jnellis.util.Qsort" package="net.jnellis.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -307,98 +429,151 @@
     <favorites_list name="project euler" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pe44.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/src/pe44.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="24" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pe37.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/src/pe37.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="39" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pe32.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/src/pe32.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="61" selection-start="817" selection-end="817" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pe11.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/src/pe11.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="35" selection-start="4009" selection-end="4009" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pe22.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/src/pe22.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="18" selection-start="52384" selection-end="52384" vertical-scroll-proportion="0.8211679">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pe23.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/src/pe23.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="7" selection-start="1726" selection-end="1726" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pe45.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/src/pe45.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="4" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modules.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="problems.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/problems.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="37" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pe180.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/src/pe180.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="4" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5141319">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="pe54.groovy" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/problems/src/pe54.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="188" column="0" selection-start="6227" selection-end="6227" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Qsort.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Qsort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="50" column="3" selection-start="1327" selection-end="1327" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Benchmark.groovy" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/Benchmark.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="11" selection-start="189" selection-end="189" vertical-scroll-proportion="0.19588876">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Math.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Math.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="19" column="69" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FactorialTest.groovy" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/FactorialTest.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="12" column="0" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FibTest.groovy" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/FibTest.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="6" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="QuicksortTest.groovy" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/QuicksortTest.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="38" column="13" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Factorial.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Factorial.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="13" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="QsortTest.groovy" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="40" column="9" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AbstractCallSite.class" pinned="false" current="false" current-in-tab="false">
+            <entry file="jar://C:/libs/groovy-2.1.2/indy/groovy-2.1.2-indy.jar!/org/codehaus/groovy/runtime/callsite/AbstractCallSite.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="73" column="26" selection-start="4981" selection-end="4981" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ClassLoader.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="jar://C:/Program Files/Java/jdk1.7.0_05/src.zip!/java/lang/ClassLoader.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="500" column="0" selection-start="18962" selection-end="18962" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Launcher.class" pinned="false" current="false" current-in-tab="false">
+            <entry file="jar://C:/Program Files/Java/jdk1.7.0_05/jre/lib/rt.jar!/sun/misc/Launcher.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="32" column="27" selection-start="1259" selection-end="1259" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="String.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="jar://C:/Program Files/Java/jdk1.7.0_05/src.zip!/java/lang/String.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1643" column="0" selection-start="64641" selection-end="64641" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="QsortTest2.groovy" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest2.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="60" column="37" selection-start="1385" selection-end="1385" vertical-scroll-proportion="0.48367593">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Quicksort.groovy" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Quicksort.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="27" column="30" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -417,22 +592,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/problems/src/pe39.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe40.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe205.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe41.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe42.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe43.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe44.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe45.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe46.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe47.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe48.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe49.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe50.groovy" />
-        <option value="$PROJECT_DIR$/problems/src/pe51.groovy" />
         <option value="$PROJECT_DIR$/utilities/test/net/jnellis/util/MathTest.groovy" />
         <option value="$PROJECT_DIR$/utilities/src/net/jnellis/util/Math.java" />
+        <option value="$PROJECT_DIR$/problems/src/pe22.groovy" />
+        <option value="$PROJECT_DIR$/problems/src/pe51.groovy" />
+        <option value="$PROJECT_DIR$/problems/src/pe52.groovy" />
+        <option value="$PROJECT_DIR$/utilities/test/net/jnellis/util/FactorialTest.groovy" />
+        <option value="$PROJECT_DIR$/utilities/src/net/jnellis/util/Factorial.java" />
+        <option value="$PROJECT_DIR$/problems/src/pe53.groovy" />
+        <option value="$PROJECT_DIR$/problems/src/pe54.groovy" />
+        <option value="$PROJECT_DIR$/utilities/src/net/jnellis/util/Benchmark.groovy" />
+        <option value="$PROJECT_DIR$/utilities/src/net/jnellis/util/Quicksort.groovy" />
+        <option value="$PROJECT_DIR$/utilities/src/net/jnellis/util/Qsort.groovy" />
+        <option value="$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest.groovy" />
+        <option value="$PROJECT_DIR$/utilities/test/net/jnellis/util/QuicksortTest.groovy" />
+        <option value="$PROJECT_DIR$/utilities/src/net/jnellis/util/Qsort.java" />
+        <option value="$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest2.groovy" />
       </list>
     </option>
   </component>
@@ -449,7 +624,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -468,6 +643,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -562,90 +738,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project euler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project euler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project euler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project euler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scopes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project euler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project euler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionaries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project euler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project euler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="copyright" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="preferences.toDoOptions" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.7.0_05/src.zip" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -654,65 +761,36 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="gradle.tool.window.active" value="Tasks" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="junit.framework.TestCase" />
-      <recent name="groovy.util.GroovyTestCase" />
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="net.jnellis.util" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="net.jnellis" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.jnellis.util" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Joe\dev\project euler\utilities\test" />
       <recent name="C:\Users\Joe\dev\project euler\problems\src" />
       <recent name="C:\Users\Joe\dev\project euler\src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.jnellis.util" />
+      <recent name="net.jnellis" />
+    </key>
   </component>
-  <component name="RunManager" selected="Groovy.pe50">
-    <configuration default="false" name="pe49" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="problems" />
-      <setting name="path" value="file://$PROJECT_DIR$/problems/src/pe49.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/problems/src" />
-      <setting name="debug" value="false" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pe50" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="problems" />
-      <setting name="path" value="file://$PROJECT_DIR$/problems/src/pe50.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/problems/src" />
-      <setting name="debug" value="false" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MathTest" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunManager" selected="JUnit.QsortTest2.testLargeSort">
+    <configuration default="false" name="QsortTest2.testLargeSort" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="net.jnellis.util.*" />
@@ -723,9 +801,43 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="net.jnellis.util" />
-      <option name="MAIN_CLASS_NAME" value="net.jnellis.util.MathTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="net.jnellis.util.QsortTest2" />
+      <option name="METHOD_NAME" value="testLargeSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx6000m" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="QsortTest.testLargeSort" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.jnellis.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="utilities" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="net.jnellis.util" />
+      <option name="MAIN_CLASS_NAME" value="net.jnellis.util.QsortTest" />
+      <option name="METHOD_NAME" value="testLargeSort" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -740,24 +852,86 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="pe46" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="problems" />
-      <setting name="path" value="file://$PROJECT_DIR$/problems/src/pe46.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/problems/src" />
-      <setting name="debug" value="false" />
+    <configuration default="false" name="QuicksortTest.testLargeSort" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.jnellis.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="utilities" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="net.jnellis.util" />
+      <option name="MAIN_CLASS_NAME" value="net.jnellis.util.QuicksortTest" />
+      <option name="METHOD_NAME" value="testLargeSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="pe41" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="problems" />
-      <setting name="path" value="file://$PROJECT_DIR$/problems/src/pe41.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/problems/src" />
-      <setting name="debug" value="false" />
+    <configuration default="false" name="QsortTest2.testQsort" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.jnellis.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="utilities" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="net.jnellis.util" />
+      <option name="MAIN_CLASS_NAME" value="net.jnellis.util.QsortTest2" />
+      <option name="METHOD_NAME" value="testQsort" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="QsortTest2" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.jnellis.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="utilities" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="net.jnellis.util" />
+      <option name="MAIN_CLASS_NAME" value="net.jnellis.util.QsortTest2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -873,19 +1047,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Groovy.pe49" />
-      <item index="1" class="java.lang.String" itemvalue="Groovy.pe50" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MathTest" />
-      <item index="3" class="java.lang.String" itemvalue="Groovy.pe46" />
-      <item index="4" class="java.lang.String" itemvalue="Groovy.pe41" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.QsortTest2.testLargeSort" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.QsortTest.testLargeSort" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.QuicksortTest.testLargeSort" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.QsortTest2.testQsort" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.QsortTest2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Groovy.pe50" />
-        <item index="1" class="java.lang.String" itemvalue="Groovy.pe41" />
-        <item index="2" class="java.lang.String" itemvalue="Groovy.pe46" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MathTest" />
-        <item index="4" class="java.lang.String" itemvalue="Groovy.pe49" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.QsortTest2.testLargeSort" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.QsortTest2" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.QsortTest2.testQsort" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.QuicksortTest.testLargeSort" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.QsortTest.testLargeSort" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -920,35 +1094,60 @@
       <created>1366670896223</created>
       <updated>1366670896223</updated>
     </task>
+    <task id="LOCAL-00001" summary="project euler 50 drop">
+      <created>1375314431065</created>
+      <updated>1375314431065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5627854" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5525114" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997722" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328341" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32460135" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.80707765" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20757738" sideWeight="0.6708428" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33485195" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20704375" sideWeight="0.8082192" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.21198156" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1926" y="8" width="955" height="990" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32687926" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19178082" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997722" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -997,9 +1196,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="project euler 50 drop" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
     <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
     <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
@@ -1014,11 +1213,50 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_05/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1643" column="0" selection-start="64641" selection-end="64641" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_05/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="27" selection-start="1259" selection-end="1259" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_05/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="500" column="0" selection-start="18962" selection-end="18962" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/libs/groovy-2.1.2/indy/groovy-2.1.2-indy.jar!/org/codehaus/groovy/runtime/callsite/AbstractCallSite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="26" selection-start="4981" selection-end="4981" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Fib.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
@@ -1026,107 +1264,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/problems/src/pe54.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="24" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
+        <state line="188" column="0" selection-start="6227" selection-end="6227" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/Joe.xml">
+    <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/MathTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="2" column="64" selection-start="57" selection-end="57" vertical-scroll-proportion="0.044334974">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+    <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="19" column="69" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+    <entry file="jar://C:/libs/groovy-2.1.2/lib/groovy-test-2.1.2.jar!/groovy/util/GroovyTestCase.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="61" column="0" selection-start="2790" selection-end="2790" vertical-scroll-proportion="2.0285714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="9" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+    <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/QuicksortTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="38" column="13" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+    <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Quicksort.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="27" column="30" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/problems.iml">
+    <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/QsortTest2.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="37" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
+        <state line="60" column="37" selection-start="1385" selection-end="1385" vertical-scroll-proportion="0.48367593">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/src/pe180.groovy">
+    <entry file="file://$PROJECT_DIR$/utilities/src/net/jnellis/util/Qsort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
+        <state line="50" column="3" selection-start="1327" selection-end="1327" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/src/pe45.groovy">
+    <entry file="file://$PROJECT_DIR$/utilities/test/net/jnellis/util/Benchmark.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/src/pe44.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="24" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/src/pe37.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="39" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/src/pe32.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="61" selection-start="817" selection-end="817" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/src/pe23.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="7" selection-start="1726" selection-end="1726" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/src/pe11.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="35" selection-start="4009" selection-end="4009" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/src/pe22.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="18" selection-start="52384" selection-end="52384" vertical-scroll-proportion="0.8211679">
+        <state line="9" column="11" selection-start="189" selection-end="189" vertical-scroll-proportion="0.19588876">
           <folding />
         </state>
       </provider>
@@ -1183,7 +1384,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1195,7 +1396,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>utilities</last-edited>
+          <last-edited>problems</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

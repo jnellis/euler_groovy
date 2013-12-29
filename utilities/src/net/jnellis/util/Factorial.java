@@ -9,14 +9,14 @@ import java.math.BigInteger;
 /**
  * @author Joe
  */
-class Factorial {
+public class Factorial {
 
   public static BigInteger fact(long n) {
     if (n < 0) {
       throw new RuntimeException("Trying to take factorial of negative number.");
     }
-    BigInteger result = BigInteger.ONE;
-    while (n > 0) {
+    BigInteger result = new BigInteger("1");
+    while (n > 1) {
       result = result.multiply(BigInteger.valueOf(n));
       n--;
     }
