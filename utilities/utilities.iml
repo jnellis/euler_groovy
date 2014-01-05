@@ -26,7 +26,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="groovy-2.1.2" level="application" />
+    <orderEntry type="library" exported="" name="groovy-2.1.2" level="application" />
   </component>
 </module>
 

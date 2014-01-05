@@ -39,6 +39,7 @@ class QsortTest2 extends GroovyTestCase {
     Integer[] result = [4, 3, 5, 2, 8, 7, 1, 0, 9, 6]
     println result
     Qsort.sort(result)
+    println result
     assertEquals([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], result)
   }
 
@@ -50,9 +51,22 @@ class QsortTest2 extends GroovyTestCase {
     assertEquals([4, 4, 4, 4, 4, 4, 4, 4, 4, 4], result)
   }
 
+  void testReverseSorted() {
+    Integer[] result = (0..<10_000_000).collect { it }.reverse().toArray()
+    println "Sort a reverse sorted array time:" + time {
+      Qsort.sort(result)
+    }
+    int i = result.length - 1
+    while (--i > 0 && result[i] <= result[i + 1]);
+    println "i: $i, \t result.length: ${result.length}"
+    i == 0 ?: fail("failed to sort.")
+
+    result = null
+  }
+
 
   void testLargeSort() {
-    int sizor = 10000000
+    int sizor = 10_000_000
     Integer[] result = new int[sizor]
     Integer[] expected = new int[sizor]
     Random rand = new Random();

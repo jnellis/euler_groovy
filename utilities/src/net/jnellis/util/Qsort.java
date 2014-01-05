@@ -10,41 +10,32 @@ package net.jnellis.util;
 
 public class Qsort {
 
-  public interface PivotChooser {
-    <T> int getPivotIndex(T[] array, int start, int end);
-
-    static PivotChooser midpoint = new PivotChooser() {
-      public <T> int getPivotIndex(T[] array, int start, int end) {
-        return start + ((end - start) >> 1);
-      }
-    };
-
-  }
-
-
   public static <T extends Comparable<T>> T[] sort(T[] array) {
 
     if (array == null || array.length < 2) {
       return array;
     }
-    sort(array, 0, array.length - 1, PivotChooser.midpoint);
+    sort(array, 0, array.length - 1);
     return array;
   }
 
   private static <T extends Comparable<T>> void sort(T[] array,
                                                      int start,
-                                                     int end,
-                                                     PivotChooser pivotChooser) {
-
-
-    int pivotIndex = partition(array, start, pivotChooser, end);
-
-    if (start < pivotIndex - 1) {
-      sort(array, start, pivotIndex - 1, pivotChooser);
+                                                     int end) {
+    // pivot choosing strategy uses three elements to choose a median.
+    // detect when two values exist and
+    if (end - start < 2) {
+      if (end - start == 1 && array[end].compareTo(array[start]) < 0) {
+        swap(array, start, end);
+      }
+      return;
     }
-    if (pivotIndex < end) {
-      sort(array, pivotIndex, end, pivotChooser);
-    }
+
+    int pivotIndex = partition(array, start, end);
+
+    sort(array, start, pivotIndex - 1);
+    sort(array, pivotIndex + 1, end);
+
   }
 
   /**
@@ -52,35 +43,45 @@ public class Qsort {
    */
   public static <T extends Comparable<T>> int partition(T[] array,
                                                         int start,
-                                                        PivotChooser pivotChooser,
                                                         int end) {
+    int elements = end - start + 1;
+    //if(elements == 2)
 
     int left = start, right = end;
-    T pivot = array[pivotChooser.getPivotIndex(array, start, end)];
+    int middle = (left + right) / 2;
+    // correct middle and right
+    if (array[middle].compareTo(array[right]) > 0) {
+      Qsort.swap(array, middle, right);
+    }
+    // correct left and right
+    if (array[left].compareTo(array[right]) > 0) {
+      Qsort.swap(array, left, right);
+    }
+    // correct left and middle
+    if (array[left].compareTo(array[middle]) > 0) {
+      Qsort.swap(array, left, middle);
+    }
+    // move pivot out of the way for now.
+    // right has been checked already,
+    // so store in right - 1
+    swap(array, middle, right - 1);
+    T pivot = array[right - 1];
+    --right;
 
-    while (left <= right) {
+    while (left < right) {
 
       // move left and right markers to points where
       // a swap needs to happen.
-      while (pivot.compareTo(array[left]) > 0) {
-        left++;
-      }
-      while (pivot.compareTo(array[right]) < 0) {
-        right--;
-      }
+      while (array[++left].compareTo(pivot) < 0) ;
+      while (pivot.compareTo(array[--right]) < 0) ;
 
-      // make progress by pushing left and/or right indexes toward pivot.
-      if (left <= right) {
-        //swap
-        T val = array[right];
-        array[right] = array[left];
-        array[left] = val;
-        left++;
-        right--;
+      if (left < right) {
+        swap(array, left, right);
       }
     }
 
-
+    // swap pivot back
+    swap(array, left, end - 1);
     return left;
   }
 
