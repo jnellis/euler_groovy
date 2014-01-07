@@ -37,16 +37,22 @@ class QsortTest2 extends GroovyTestCase {
 
   void testQsort() {
     Integer[] result = [4, 3, 5, 2, 8, 7, 1, 0, 9, 6]
-    println result
     Qsort.sort(result)
-    println result
     assertEquals([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], result)
+  }
+
+  void testPreSorted() {
+    Integer[] presorted = (0..1000).collect { it } as Integer[]
+    Qsort.sort(presorted)
+    int i = presorted.length - 1
+    while (--i > 0 && presorted[i] <= presorted[i + 1]);
+    i == 0 ?: fail("failed to sort.")
+
   }
 
 
   void testAllSame() {
     Integer[] result = [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
-    println result
     Qsort.sort(result)
     assertEquals([4, 4, 4, 4, 4, 4, 4, 4, 4, 4], result)
   }
@@ -58,7 +64,6 @@ class QsortTest2 extends GroovyTestCase {
     }
     int i = result.length - 1
     while (--i > 0 && result[i] <= result[i + 1]);
-    println "i: $i, \t result.length: ${result.length}"
     i == 0 ?: fail("failed to sort.")
 
     result = null

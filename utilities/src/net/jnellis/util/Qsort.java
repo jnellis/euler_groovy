@@ -22,8 +22,8 @@ public class Qsort {
   private static <T extends Comparable<T>> void sort(T[] array,
                                                      int start,
                                                      int end) {
-    // pivot choosing strategy uses three elements to choose a median.
-    // detect when two values exist and
+    // The pivot choosing strategy uses three elements to choose a median.
+    // Detect when only two values exist and just swap these if necessary.
     if (end - start < 2) {
       if (end - start == 1 && array[end].compareTo(array[start]) < 0) {
         swap(array, start, end);
@@ -44,8 +44,6 @@ public class Qsort {
   public static <T extends Comparable<T>> int partition(T[] array,
                                                         int start,
                                                         int end) {
-    int elements = end - start + 1;
-    //if(elements == 2)
 
     int left = start, right = end;
     int middle = (left + right) / 2;
