@@ -1,3 +1,7 @@
 # Created by .gitignore support plugin (hsz.mobi)
 .idea/workspace.xml
 out
+
+euler_groovy.ipr
+euler_groovy.iml
+euler_groovy.iws
