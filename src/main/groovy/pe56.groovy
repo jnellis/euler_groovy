@@ -25,8 +25,13 @@ for (BigInteger a = 2; a < 100; a++) {
     continue
   }
   int tempMax = (2..<100).collect { sumOfDigits(a.pow(it)) }
-                 .max();
-  max = Math.max(max,tempMax);
+                         .max();
+  max = Math.max(max, tempMax);
 }
 
 println max
+
+// cleaned up
+println( (2..<100).collect { a ->
+  (2..<100).collect { b -> sumOfDigits(new BigInteger(a).pow(b)) }.max()
+}.max() )
