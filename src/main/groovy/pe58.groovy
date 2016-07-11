@@ -37,7 +37,7 @@ isPrime = { n ->
 }
 
 primeCount = 3
-diagonalCount = 5    // assume we have the first square
+diagonalCount = 5 // assume we have the first square
 
 sideCount = 2
 index = 1  // starting point
