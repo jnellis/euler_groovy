@@ -46,7 +46,7 @@ public class Qsort {
                                                         int end) {
 
     int left = start, right = end;
-    int middle = (left + right) / 2;
+    int middle = left + (right - left) / 2;
     // correct middle and right
     if (array[middle].compareTo(array[right]) > 0) {
       Qsort.swap(array, middle, right);
